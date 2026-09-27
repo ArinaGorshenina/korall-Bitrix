@@ -1,0 +1,25 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Жалюзи", 
+		"/catalog/zhalyuzi-i-shtory/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+		Array(
+		"Карнизы", 
+		"/catalog/karnizy/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Аксессуары", 
+		"/catalog/aksessuary-dlya-shtor/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

@@ -1,0 +1,2 @@
+<img src="<?= SITE_TEMPLATE_PATH ?>/assets/images/cooperation/fon.png" alt="fon" class="coo-fon">
+<img src="<?= SITE_TEMPLATE_PATH ?>/assets/images/cooperation/shtor.png" alt="shtor" class="coo-shtor">
